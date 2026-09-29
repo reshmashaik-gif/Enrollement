@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "reshma",
+      "email": "reshma@gmail.com",
+      "mobile": "123456789",
+      "department": "Developer",
+      "course": "BCA",
+      "id": "YpiDmbq4VdU"
+    },
+    {
+      "name": "soniya",
+      "email": "soniya@gmail.com",
+      "mobile": "1234567989",
+      "department": "Marketing",
+      "course": "MBA",
+      "id": "5Swe09bwEgQ"
+    },
+    {
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "mobile": "123456789",
+      "department": "sales",
+      "course": "BCom",
+      "id": "JnSb2JHbGXM"
+    },
+    {
+      "name": "surath",
+      "email": "surath@gmail.com",
+      "mobile": "234567890",
+      "department": "finance",
+      "course": "BCA",
+      "id": "iDv9OqE9gdo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
